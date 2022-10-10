@@ -1,0 +1,6 @@
+# Project exclude paths
+/NewApp/target/
+/OldApp/target/
+/Service/target/
+/target/
+/.idea/
